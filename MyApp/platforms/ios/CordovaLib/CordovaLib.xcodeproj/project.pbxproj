@@ -209,8 +209,8 @@
 		7ED95CFD1AB9028C008C4574 /* CDVUIWebViewEngine */ = {
 			isa = PBXGroup;
 			children = (
-				30193A4F1AE6350A0069A75F /* CDVUIWebViewNavigationDelegate.h */,
 				30193A4E1AE6350A0069A75F /* CDVUIWebViewNavigationDelegate.m */,
+				30193A4F1AE6350A0069A75F /* CDVUIWebViewNavigationDelegate.h */,
 				7ED95CFE1AB9028C008C4574 /* CDVUIWebViewDelegate.h */,
 				7ED95CFF1AB9028C008C4574 /* CDVUIWebViewDelegate.m */,
 				7ED95D001AB9028C008C4574 /* CDVUIWebViewEngine.h */,
